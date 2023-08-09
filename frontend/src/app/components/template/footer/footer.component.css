@@ -1,0 +1,15 @@
+.footer {
+    position: fixed;
+    bottom: 0px;
+
+    display: flex;
+    justify-content: end;
+}
+
+.footer img {
+    max-height: 15px;
+}
+
+.footer > span {
+    font-weight: 300;
+}
